@@ -1,8 +1,10 @@
-# 프로그래머스 문제 모아보기
+# 문제 모아보기
 
 ---
+<details>
+<summary>프로그래머스</summary>
 
-## Level 1
+### Level 1
 
 - [1845_폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)
 - [12906_같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)
@@ -12,7 +14,7 @@
 
 ---
 
-## Level 2
+### Level 2
 
 - [12909_올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)
 - [42577_전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)
@@ -26,7 +28,10 @@
 
 ---
 
-## Level 3
+### Level 3
 
 - [42579_베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)
 - [42628_이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)
+</details>
+
+
